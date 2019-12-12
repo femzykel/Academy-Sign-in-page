@@ -2,9 +2,9 @@
     list-style: none;
 }
 body {
-    background-image: url(Bench-Background-15-2560x1920.jpg);
+    background-image: url(https://media.giphy.com/media/e5rHVwosWkEbS/giphy.gif);
     background-position: 50%;
-    background-repeat: no-repeat;
+    /* background-repeat: no-repeat; */
 }
 .bg-color {
     background: rgba(253, 245, 230, 0.4);
