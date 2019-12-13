@@ -12,3 +12,11 @@ body {
 .navbar-content li {
     font-weight: 700;
 }
+
+.card {
+    background-color: black;
+}
+
+.box-shadow {
+    box-shadow: 2px 2px 17px 7px red
+}
