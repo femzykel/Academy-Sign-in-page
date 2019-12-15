@@ -20,3 +20,30 @@ body {
 .box-shadow {
     box-shadow: 2px 2px 17px 7px red
 }
+
+a {
+    color: white;
+  }
+
+a:hover {
+    color: red;
+    text-decoration: none;
+  }
+
+.lbtn {
+    color: red;
+}
+
+.lbtn:hover {
+    color: red;
+    text-decoration-line: underline;
+}
+
+.sign:hover {
+    color: black;
+}
+
+.terms {
+    color: white;
+}
+

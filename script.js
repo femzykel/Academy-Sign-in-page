@@ -1,3 +1,4 @@
+
 const inputs = document.querySelectorAll('.form-control');
 
 const constraints = {
